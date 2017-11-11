@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+Demo: https://rainy-day.surge.sh
+
 ## Build Setup
 
 ``` bash
